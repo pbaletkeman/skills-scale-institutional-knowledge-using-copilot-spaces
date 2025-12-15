@@ -28,15 +28,27 @@ Explore our complete set of project management process documents:
 
 - **[octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md)** - Practices for capturing learnings, running effective retrospectives, tracking action items, and fostering a continuous improvement culture.
 
-- **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)** - Detailed definitions of team roles including Developers, Product Managers, and Project Managers, with their responsibilities, goals, and typical communication patterns.
+- **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)** - Comprehensive definitions of all team roles including Developers, Product Managers, Project Managers, UX/UI Designers, Quality Assurance Leads, Technical Writers, DevOps Engineers, and Support/Customer Success, with their responsibilities, goals, communication patterns, and key interactions.
+
+## Templates and Checklists
+
+OctoAcme provides practical templates and checklists to support common project management processes:
+
+- **[template-onboarding-checklist.md](template-onboarding-checklist.md)** - Comprehensive checklist for onboarding new team members, with role-specific guidance and 30-60-90 day milestones.
+
+- **[template-role-handover-checklist.md](template-role-handover-checklist.md)** - Structured checklist for smooth role transitions and knowledge transfer, including pre-handover, during, and post-handover activities.
+
+- **[template-stakeholder-review-meeting.md](template-stakeholder-review-meeting.md)** - Meeting template for stakeholder reviews with agenda, preparation steps, and post-meeting actions.
 
 ## Getting Started
 
 If you're new to OctoAcme or looking to onboard quickly:
 
 1. Start with **octoacme-project-management-overview.md** for foundational concepts
-2. Review **octoacme-roles-and-personas.md** to understand team structure
-3. Explore phase-specific guides (**octoacme-project-initiation.md**, **octoacme-project-planning.md**, **octoacme-execution-and-tracking.md**, **octoacme-release-and-deployment.md**, **octoacme-retrospective-and-continuous-improvement.md**) as needed
-4. Reference **octoacme-risks-and-communication.md** for ongoing coordination practices
+2. Review **octoacme-roles-and-personas.md** to understand team structure and all role definitions
+3. Use **template-onboarding-checklist.md** to guide your onboarding process
+4. Explore phase-specific guides (**octoacme-project-initiation.md**, **octoacme-project-planning.md**, **octoacme-execution-and-tracking.md**, **octoacme-release-and-deployment.md**, **octoacme-retrospective-and-continuous-improvement.md**) as needed
+5. Reference **octoacme-risks-and-communication.md** for ongoing coordination practices
+6. Use templates for handovers, stakeholder reviews, and other recurring processes
 
 For quick answers, use your repository's Copilot Spaces with these documents as context to get role-specific guidance and process recommendations.
