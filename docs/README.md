@@ -34,9 +34,9 @@ Explore our complete set of project management process documents:
 
 If you're new to OctoAcme or looking to onboard quickly:
 
-1. Start with the **octoacme-project-management-overview** for foundational concepts
-2. Review **octoacme-roles-and-personas** to understand team structure
-3. Explore phase-specific guides (**octoacme-project-initiation**, **octoacme-project-planning**, **octoacme-execution-and-tracking**, **octoacme-release-and-deployment**, **octoacme-retrospective-and-continuous-improvement**) as needed
-4. Reference **octoacme-risks-and-communication** for ongoing coordination practices
+1. Start with **octoacme-project-management-overview.md** for foundational concepts
+2. Review **octoacme-roles-and-personas.md** to understand team structure
+3. Explore phase-specific guides (**octoacme-project-initiation.md**, **octoacme-project-planning.md**, **octoacme-execution-and-tracking.md**, **octoacme-release-and-deployment.md**, **octoacme-retrospective-and-continuous-improvement.md**) as needed
+4. Reference **octoacme-risks-and-communication.md** for ongoing coordination practices
 
 For quick answers, use your repository's Copilot Spaces with these documents as context to get role-specific guidance and process recommendations.
